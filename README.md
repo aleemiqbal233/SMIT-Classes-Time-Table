@@ -1,2 +1,2 @@
 # SMIT Time Table 
- Classes Schedule
+ practice for making Classes Schedule
